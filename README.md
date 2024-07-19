@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source software
 - 📫 How to reach me: Whistle
 - 😄 Pronouns: Yes
-- ⚡ Fun fact: The sun is a star
+- ⚡ Fun fact: The sun is a star, honest.
 
 <!---
 KKhujo/KKhujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
