@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KKhujo
+- 👋 Hi, I’m Kujo
 - 👀 I’m interested in the pulse of the machine
 - 🌱 I’m currently learning all the things
 - 💞️ I’m looking to collaborate on open source software
