@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Kujo
-- 👀 I’m interested in the pulse of the machine
-- 🌱 I’m currently learning all the things
-- 💞️ I’m looking to collaborate on open source software
-- 📫 How to reach me: Whistle
-- 😄 Pronouns: Yes
+- 👋 Hi, I’m Kujo.
+- 👀 I’m interested in the pulse of the machine.
+- 🌱 I’m currently learning all the things.
+- 💞️ I’m looking to collaborate on all the things.
+- 📫 How to reach me: Whistle.
+- 😄 Pronouns: Yes.
 - ⚡ Fun fact: The sun is a star, honest.
 
 <!---
