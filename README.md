@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all the things.
 - 📫 How to reach me: Batsignal or howl at the moon.
 - 😄 Pronouns: Yes.
-- ⚡ Fun fact: The sun is a star, honest.
+- ⚡ Fun fact: 1 + 1 = 8, honest.
 
 <!---
 KKhujo/KKhujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
